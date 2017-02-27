@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#311B92</color>
+    <color name="colorAccent"></color>
+    <color name="aCross1">#EC91E4</color>
+    <color name="aCross2">#9C273C</color>
+    <color name="aCross3">#00965E</color>
+    <color name="aCross4">#77520E</color>
+    <color name="aCross5">#5D4037</color>
+
+    <color name="a_Dot"></color>
+</resources>
